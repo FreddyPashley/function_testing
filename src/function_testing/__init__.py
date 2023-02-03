@@ -1,7 +1,7 @@
 import time
 
 class Test:
-    version = "1.0.0"
+    version = "1.0.1"
     class TestResult:
         def __init__(self, result, function, args, time_taken, expected_type, expected_value, expected_chars, expected_length, errors=None):
             self.value = result
