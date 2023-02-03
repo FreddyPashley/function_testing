@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='function_testing',
-    version='1.0.1',
+    version='1.0.2',
     license='MIT',
     author="Freddy Pashley",
     author_email='fredpashley1@gmail.com',
